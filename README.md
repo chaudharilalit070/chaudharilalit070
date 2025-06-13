@@ -11,7 +11,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 Pursuing Bachelor's degree at **Savitribai Phule Pune University (SPPU)**
+- 🎓 Pursuing Master's degree at **Savitribai Phule Pune University (SPPU)**
 - 🌱 Currently diving deep into **Spring Boot**, RESTful APIs, and Full Stack Development
 - 🧠 Believer in learning by building — real-time apps, SaaS products, and collaborative coding
 - 💬 Open to discussions on backend design, cloud integration, and system architecture
