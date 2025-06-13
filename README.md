@@ -45,7 +45,7 @@
 
 ### 📫 Connect With Me
 
-- 📧 Email: **chaudharilalit171@gmail.com**  
+- 📧 Email: **chaudharilalit717@gmail.com**  
 - 💼 LinkedIn: [Lalit Chaudhari](https://www.linkedin.com/in/lalit-chaudhari-a16a10246)  
 - 📷 Instagram: [@rahul_chaudhary_7_15_3](https://instagram.com/rahul_chaudhary_7_15_3)
 
